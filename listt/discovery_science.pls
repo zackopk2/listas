@@ -1,5 +1,5 @@
 [playlist]
-File1=https://cold-scene-a389.gustavofern906.workers.dev/discoveryscience/index.fmp4.m3u8
+File1=https://cold-scene-a389.gustavofern906.workers.dev/discoveryscience/video.m3u8
 Title1=discovery_science
 Length1=-1
 NumberOfEntries=1
